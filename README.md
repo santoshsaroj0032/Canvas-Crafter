@@ -2,11 +2,13 @@
 
 A modern, feature-rich 2D canvas editor built with **Next.js 14**, **TypeScript**, and **HTML5 Canvas**. Create, edit, and share drawings with real-time collaboration capabilities and intuitive object manipulation.
 
-![Canvas Editor Demo](https://via.placeholder.com/800x400/f3f4f6/1f2937?text=Canvas+Editor+Demo)
+![Canvas Editor SnapShot]
+<img width="1911" height="876" alt="image" src="https://github.com/user-attachments/assets/4027c567-d010-4522-9516-19026038865a" />
+
 
 ## 🚀 Live Demo
 
-**[Try it live →](https://your-canvas-editor.vercel.app)**
+**[Try it live →](https://canvas-crafter-five.vercel.app/)**
 
 ## ✨ Key Features
 
