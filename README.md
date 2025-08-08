@@ -82,7 +82,7 @@ A modern, feature-rich 2D canvas editor built with **Next.js 14**, **TypeScript*
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/canvas-editor.git
-cd canvas-editor
+cd canvas craft
 
 # Install dependencies
 npm install
@@ -131,137 +131,7 @@ npm start
 1. Click **Share** to copy shareable link
 2. Click **Export PNG** to download image
 3. Use **Clear** to reset canvas
-
-## 🎯 Project Highlights for Interviewers
-
-### **Technical Skills Demonstrated**
-
-#### **Frontend Development**
-- ✅ **Modern React** with hooks and functional components
-- ✅ **TypeScript** for type safety and better code quality
-- ✅ **Next.js 14** with App Router for optimal performance
-- ✅ **Responsive Design** with Tailwind CSS
-
-#### **Canvas & Graphics Programming**
-- ✅ **HTML5 Canvas API** mastery for 2D graphics
-- ✅ **Custom drawing algorithms** for shapes and paths
-- ✅ **Hit detection** for object selection
-- ✅ **Coordinate transformations** for rotation and scaling
-
-#### **State Management & Architecture**
-- ✅ **Complex state management** with multiple object types
-- ✅ **Event handling** for mouse interactions
-- ✅ **Performance optimization** with efficient rendering
-- ✅ **Clean code architecture** with separation of concerns
-
-#### **User Experience**
-- ✅ **Intuitive interface** design
-- ✅ **Real-time feedback** for all interactions
-- ✅ **Accessibility considerations** with proper ARIA labels
-- ✅ **Error handling** and edge case management
-
-### **Problem-Solving Approach**
-1. **Identified Requirements** - Drawing, manipulation, sharing
-2. **Chose Optimal Tech Stack** - Performance-focused decisions
-3. **Implemented Core Features** - Step-by-step development
-4. **Added Advanced Features** - Enhanced user experience
-5. **Optimized Performance** - Smooth 60fps interactions
-
-## 🔮 Future Enhancements
-
-### **Phase 1 - Collaboration**
-- [ ] Real-time multi-user editing
-- [ ] User cursors and presence indicators
-- [ ] Conflict resolution for simultaneous edits
-
-### **Phase 2 - Advanced Tools**
-- [ ] Layer management system
-- [ ] Undo/Redo functionality
-- [ ] More shape tools (polygon, arrow, line)
-- [ ] Image import and manipulation
-
-### **Phase 3 - Professional Features**
-- [ ] Grid and snap-to-grid
-- [ ] Ruler and measurement tools
-- [ ] Template system
-- [ ] Advanced export formats (SVG, PDF)
-
-## 📊 Performance Metrics
-
-- **⚡ First Load**: < 2s
-- **🎨 Drawing Latency**: < 16ms (60fps)
-- **📦 Bundle Size**: < 500KB gzipped
-- **📱 Mobile Performance**: 90+ Lighthouse score
-
+   
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 About the Developer
-
-**[Your Name]** - Full Stack Developer
-
-- 🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📧 **Email**: your.email@example.com
-- 🐙 **GitHub**: [@yourusername](https://github.com/yourusername)
-
----
-
-### 🏆 **Why This Project Stands Out**
-
-This canvas editor demonstrates **advanced frontend engineering skills** including:
-- Complex state management without external libraries
-- High-performance canvas rendering
-- Intuitive user interface design
-- Modern React and TypeScript patterns
-- Clean, maintainable code architecture
-
-**Perfect for showcasing technical expertise in frontend development, graphics programming, and user experience design.**
-
----
-
-⭐ **Star this repository if you found it helpful!**
-```
-
-## 📸 **Adding Project Screenshots**
-
-To make your README even more impressive, add these screenshots:
-
-1. **Main Interface Screenshot**
-   - Take a screenshot of the full canvas editor interface
-   - Show the toolbar, canvas with some drawings, and properties panel
-
-2. **Drawing Demo GIF**
-   - Record a short GIF showing drawing, selecting, and manipulating objects
-   - Use tools like LICEcap or Kap to create smooth GIFs
-
-3. **Feature Showcase**
-   - Screenshot showing color picker in action
-   - Screenshot of text editing modal
-   - Screenshot of object selection with handles
-
-## 🎯 **README Highlights for Interviewers**
-
-This README is designed to impress interviewers by showcasing:
-
-✅ **Technical Depth** - Detailed tech stack explanation
-✅ **Problem-Solving** - Clear architecture decisions
-✅ **Code Quality** - TypeScript, clean structure
-✅ **User Focus** - Comprehensive usage guide
-✅ **Professional Presentation** - Well-formatted, visual
-✅ **Future Vision** - Roadmap shows growth mindset
-✅ **Performance Awareness** - Metrics and optimizations
-
-The README positions you as a **senior-level developer** who thinks about architecture, performance, user experience, and maintainability! 🚀
-
